@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Laravel MVC 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email me at cheskabtrinidad@gmail.com
+- 📫 How to reach me email me at cheska.trinidad@telus.com
 
 <!---
 cheskabtrinidad/cheskabtrinidad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
